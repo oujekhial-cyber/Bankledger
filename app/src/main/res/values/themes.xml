@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.BankLedger" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#7C3AED</item>
+        <item name="android:windowBackground">#F8FAFC</item>
+    </style>
+</resources>
